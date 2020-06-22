@@ -1,0 +1,20 @@
+table
+{
+border:2px black solid;    
+}
+
+td{
+    width: 70px;
+    height: 70px
+}
+
+#black
+{
+ background:black;
+    
+}
+#white
+{
+ background: white;
+
+}
